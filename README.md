@@ -1,10 +1,10 @@
 # Initial page
 
 $$
-a = b
+\lim_{\Delta x \rightarrow 0}{\frac{\Delta y}{\Delta x}}-{\frac{A\Delta x}{\Delta x}}=0
 $$
 
 
 ```math
-a=b
+\lim_{\Delta x \rightarrow 0}{\frac{\Delta y}{\Delta x}}-{\frac{A\Delta x}{\Delta x}}=0
 ```
