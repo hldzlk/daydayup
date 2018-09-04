@@ -7,4 +7,6 @@
 * [Changelog](changelog.md)
 * [Blank](blank.md)
 * [test](test.md)
+* [english](english/README.md)
+  * [语法&长难句](english/yu-fa-chang-nan-ju.md)
 
