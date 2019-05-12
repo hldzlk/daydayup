@@ -10,10 +10,11 @@
 * [Blank](blank.md)
 * [test](test.md)
 
-## linear algebra
+## math
 
-* [determinant](linear-algebra/determinant.md)
-* [matrix](linear-algebra/matrix.md)
-* [vector quantity](linear-algebra/vector-quantity.md)
-* [equation](linear-algebra/equation.md)
+* [linear algebra](math/linear-algebra/README.md)
+  * [determinant](math/linear-algebra/determinant.md)
+  * [matrix](math/linear-algebra/matrix.md)
+  * [vector quantity](math/linear-algebra/vector-quantity.md)
+  * [equation](math/linear-algebra/equation.md)
 
