@@ -10,7 +10,7 @@
 * [Blank](blank.md)
 * [test](test.md)
 * [math](math/README.md)
-  * [math1](math/math1.md)
+  * [asdasdasd](math/math1.md)
 
 ## ma
 
