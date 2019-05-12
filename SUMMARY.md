@@ -9,18 +9,11 @@
 * [Changelog](changelog.md)
 * [Blank](blank.md)
 * [test](test.md)
-* [math](math/README.md)
-  * [asdasdasd](math/math1.md)
 
-## ma
+## linear algebra
 
-* [lall](ma/untitled.md)
-* [asdasdas](ma/asdasdas.md)
-* [Untitled](ma/untitled-1.md)
-
-## la
-
-* [asdasdff](la/asdasdff.md)
-* [Uffff](la/uffff.md)
-* [gfasasd](la/gfasasd.md)
+* [determinant](linear-algebra/determinant.md)
+* [matrix](linear-algebra/matrix.md)
+* [vector quantity](linear-algebra/vector-quantity.md)
+* [equation](linear-algebra/equation.md)
 
